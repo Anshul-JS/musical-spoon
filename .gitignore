@@ -2,5 +2,5 @@
 .vscode/
 authentication.js
 node_modules
-noyes/
+notes/
 **/*-todo.md
